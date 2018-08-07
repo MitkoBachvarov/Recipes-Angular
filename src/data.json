@@ -1,0 +1,103 @@
+{
+  "recipes": [
+    {
+      "id" : 1,
+      "title": "Best Salad in the World",
+      "description": "This is a recipe for the best tasting salad in the world. It has lots of carrots and lettuce!",
+      "serves": "2 People",
+      "imageUrl":"assets/salad.jpg",
+      "ingredients": [
+        {
+        "amount": "1 head",
+        "name" : "lettuce"
+        },
+        {
+          "amount": "10",
+          "name" : "carrots"
+        },
+        {
+          "amount": "2 tablespoons",
+          "name" : "ranch dressing"
+        }
+      ],
+      "instructions":[
+        "remove lettuce leaves",
+        "add lettuce to a large bowl",
+        "then add the carrots to the bowl",
+        "add the ranch dressing",
+        "then mix ingredients together in the bowl"
+      ]
+    },
+    {
+      "id" : 2,
+      "title": "Yummi Burgers",
+      "description": "This is a recipe handed down to me by my grandmother Kalla who used to make the best burgers",
+      "serves": "4 People",
+      "imageUrl":"assets/burger.jpg",
+      "ingredients": [
+        {
+          "amount": "4",
+          "name" : "burger buns"
+        },
+        {
+          "amount": "500g",
+          "name" : "rinced meat"
+        },
+        {
+          "amount": "250g",
+          "name" : "special tomatoes"
+        },
+        {
+          "amount": "150g",
+          "name":"cheese"
+        }
+      ],
+      "instructions":[
+        "bake the buns a little bit on the sides",
+        "make the rinced meat in burger form",
+        "add salt and pepper to the meat",
+        "fry until looks good",
+        "melt the cheese a little bit",
+        "add special tomatoes and meat between the buns",
+        "add the cheese last"
+      ]
+    },
+    {
+      "id" : 3,
+      "title": "Perfect Pancakes",
+      "description": "The recipe for these pancakes was stolen from a small village in China. The person who stole it was killed but he managed to pass it down ",
+      "serves": "1-2 Persons",
+      "imageUrl":"assets/pancake.jpg",
+      "ingredients": [
+        {
+          "amount": "6",
+          "name" : "eggs"
+        },
+        {
+          "amount": "450g",
+          "name" : "flour"
+        },
+        {
+          "amount": "350g",
+          "name" : "syrop"
+        },
+        {
+          "amount": "100g",
+          "name" : "butter"
+        },
+        {
+          "amount": "125g",
+          "name": "mushroom stew"
+        }
+      ],
+      "instructions":[
+        "brake the eggs in a pan",
+        "mix the flour inside the pan",
+        "reshape the pancake",
+        "turn it around",
+        "add mushroom stew"
+      ]
+    }
+  ]
+
+}
